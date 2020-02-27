@@ -16,7 +16,7 @@ El método de envío de la información al servidor cambia.
 **Post** envía los parámetros de manera invisible al usuario.
 
 ## Funcionamiento de la clase Service:
- ´Service´ se encarga de hacer intermediario con Json para obtener la información de la ID especificada.
+ `Service` se encarga de hacer intermediario con Json para obtener la información de la ID especificada.
  esta ID es presentada por medio de una tabla, al dirigirnos a la página de nuestro servidor se puede ver
- una casilla para ingresar la información de una ID específica, es aquí donde usamos ´Service´ para poder 
- consumir los datos del sitio ´https://jsonplaceholder.typicode.com/todos/1´ y visualizarlos en nuestro sitio.
+ una casilla para ingresar la información de una ID específica, es aquí donde usamos `Service` para poder 
+ consumir los datos del sitio `https://jsonplaceholder.typicode.com/todos/1` y visualizarlos en nuestro sitio.
